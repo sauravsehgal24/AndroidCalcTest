@@ -13,6 +13,8 @@
 4. Once everything is up and running, navigate to the root folder of the repo again and execute `npm test` in the terminal/console 
 5. You should be able to see the live test running in the android emulator
 
+#### NOTE: If you want to run the tests on any custom emulator android device and/or custom appium server then please change the configuration in /config/AppiumConfig.js
+
 ### Repo Folder Structure
 
 /config/AppiumConfig.js -> Contains general configuration for appium server and device caps
