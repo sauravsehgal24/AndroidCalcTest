@@ -1,5 +1,5 @@
-import { localDeviceAndroid } from "../config/AppiumConfig.js";
-import { CalculatorHomePage } from "./PageModal/CalculatorPage.js";
+import { localDeviceAndroid } from "../../config/AppiumConfig.js";
+import { CalculatorHomePage } from "../PageModal/CalculatorPage.js";
 import { remote } from "webdriverio";
 import { assert } from "chai";
 
