@@ -7,7 +7,7 @@
 4. Download and install appium server or appium desktop application
 
 ### How to run the project locally
-1. Clone the Repo in local and navigate to the root folder and in the terminal/console type `npm install` to install all the dependencies
+1. Clone the Repo in local and navigate to the root folder and in the terminal/console type `npm install` to install all the dependencies (webdriverio, mocha, chai)
 2. Start Local Appium Desktop Server or Appium Server at localhost with port: 4723
 3. Start the emulator from `avd` CLI or start android studio and navigate to tools>Device Manager and start the emulator
 4. Once everything is up and running, navigate to the root folder of the repo again and execute `npm test` in the terminal/console 
